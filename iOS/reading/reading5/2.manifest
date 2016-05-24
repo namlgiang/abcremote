@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1692571674
+CRC: 522890590
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d7eabf56ab6b08925e3af77296772de
+    Hash: 2cf6cf284aa5f19d28dbfc36f7839a41
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3936d66559ba46e01d5a617bb150e967
@@ -48,5 +48,5 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Remote Assets/Reading/F/reading-2.prefab
+- Assets/Remote Assets/Reading/F/reading5-2.prefab
 Dependencies: []
