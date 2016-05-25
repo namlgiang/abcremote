@@ -151,3 +151,24 @@ AssetBundleManifest:
     Info_49:
       Name: flashcard/flashcard5/5
       Dependencies: {}
+    Info_50:
+      Name: flashcard/flashcard6/main
+      Dependencies: {}
+    Info_51:
+      Name: flashcard/flashcard6/0
+      Dependencies: {}
+    Info_52:
+      Name: flashcard/flashcard6/1
+      Dependencies: {}
+    Info_53:
+      Name: flashcard/flashcard6/2
+      Dependencies: {}
+    Info_54:
+      Name: flashcard/flashcard6/3
+      Dependencies: {}
+    Info_55:
+      Name: flashcard/flashcard6/4
+      Dependencies: {}
+    Info_56:
+      Name: flashcard/flashcard6/5
+      Dependencies: {}

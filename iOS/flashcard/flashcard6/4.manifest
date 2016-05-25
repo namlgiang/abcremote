@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1794766792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ba1f6967e77902e329da44c843ba83b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14a7e4712c5ad6221d3367e007f00168
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3382e15c085a41f0a5f21a2df61ad6c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92affbe9c5aeb471b8b1283701f1d8bd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Remote Assets/Flashcard/G/Grass/flashcard6-4.unity
+Dependencies: []
