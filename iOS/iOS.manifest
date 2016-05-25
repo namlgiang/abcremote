@@ -172,3 +172,24 @@ AssetBundleManifest:
     Info_56:
       Name: flashcard/flashcard6/5
       Dependencies: {}
+    Info_57:
+      Name: writing/writing7
+      Dependencies: {}
+    Info_58:
+      Name: activity/activity42
+      Dependencies: {}
+    Info_59:
+      Name: activity/activity43
+      Dependencies: {}
+    Info_60:
+      Name: activity/activity44
+      Dependencies: {}
+    Info_61:
+      Name: activity/activity45
+      Dependencies: {}
+    Info_62:
+      Name: activity/activity46
+      Dependencies: {}
+    Info_63:
+      Name: activity/activity47
+      Dependencies: {}
