@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 942588735
+CRC: 2452065267
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2b8b454d31469b966f36dbe4bcef2a84
+    Hash: 7cb3f184b4722418dd97999424f657b8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6d42a81e0a099959fb7922bbc6e281b0
+    Hash: 3936d66559ba46e01d5a617bb150e967
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,24 +19,26 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
-- Class: 33
-  Script: {instanceID: 0}
-- Class: 43
-  Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 61
+- Class: 74
   Script: {instanceID: 0}
-- Class: 65
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
   Script: {instanceID: 0}
 - Class: 102
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4636dd00cf55347fbb1cf6d17b2e47dc, type: 3}
+  Script: {fileID: 11500000, guid: ec8774d3c3f9d487a9c3f16f15812a17, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 2f6843ce3b1224ad986cac05cac96315, type: 3}
+  Script: {fileID: 11500000, guid: c1d20ddb92a434af8b25be776ff16e0a, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 06f315fe5b512464eb89d1be455c26ab, type: 3}
+  Script: {fileID: 11500000, guid: 9c770fbc810304d5783aba95d8cb2402, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -46,5 +48,5 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Remote Assets/Flashcard/G/flashcard6.prefab
+- Assets/Remote Assets/Reading/H/reading7-3.prefab
 Dependencies: []

@@ -193,3 +193,18 @@ AssetBundleManifest:
     Info_63:
       Name: activity/activity47
       Dependencies: {}
+    Info_64:
+      Name: listening/listening7
+      Dependencies: {}
+    Info_65:
+      Name: reading/reading7/0
+      Dependencies: {}
+    Info_66:
+      Name: reading/reading7/1
+      Dependencies: {}
+    Info_67:
+      Name: reading/reading7/2
+      Dependencies: {}
+    Info_68:
+      Name: reading/reading7/3
+      Dependencies: {}
