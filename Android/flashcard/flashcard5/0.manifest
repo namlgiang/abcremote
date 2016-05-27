@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1359581127
+CRC: 1329719663
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8ae24c9fca17a7a4cd9ad2f2541843ba
+    Hash: ada143e96750502d23be7b4a2e590df9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 14a7e4712c5ad6221d3367e007f00168
@@ -54,5 +54,5 @@ ClassTypes:
 - Class: 258
   Script: {instanceID: 0}
 Assets:
-- Assets/Remote Assets/Flashcard/F/Fan/0.unity
+- Assets/Remote Assets/Flashcard/F/Fan/flashcard5-0.unity
 Dependencies: []

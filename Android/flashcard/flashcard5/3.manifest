@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2467680991
+CRC: 1674080084
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 756d37e651cbc34fb42e202ea37c466a
+    Hash: 440f4bf6b9226021de8f40f85efe571c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 680f8d19c4cf91981ec484f3c675d869
@@ -50,5 +50,5 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Remote Assets/Flashcard/F/Fox/3.unity
+- Assets/Remote Assets/Flashcard/F/Fox/flashcard5-3.unity
 Dependencies: []

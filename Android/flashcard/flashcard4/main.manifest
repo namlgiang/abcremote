@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 858714985
+CRC: 3657651356
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ce4fb69076ed1ca5b4f64653f43db64
+    Hash: 85d1116d621590202d4a2c442cc3ef5b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6d42a81e0a099959fb7922bbc6e281b0
@@ -46,5 +46,5 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Remote Assets/Flashcard/E/main.prefab
+- Assets/Remote Assets/Flashcard/E/flashcard4.prefab
 Dependencies: []
