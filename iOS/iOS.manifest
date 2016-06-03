@@ -208,3 +208,81 @@ AssetBundleManifest:
     Info_68:
       Name: reading/reading7/3
       Dependencies: {}
+    Info_69:
+      Name: writing/writing8
+      Dependencies: {}
+    Info_70:
+      Name: activity/activity48
+      Dependencies: {}
+    Info_71:
+      Name: activity/activity49
+      Dependencies: {}
+    Info_72:
+      Name: activity/activity50
+      Dependencies: {}
+    Info_73:
+      Name: activity/activity51
+      Dependencies: {}
+    Info_74:
+      Name: activity/activity52
+      Dependencies: {}
+    Info_75:
+      Name: activity/activity53
+      Dependencies: {}
+    Info_76:
+      Name: listening/listening8
+      Dependencies: {}
+    Info_77:
+      Name: reading/reading8/0
+      Dependencies: {}
+    Info_78:
+      Name: reading/reading8/1
+      Dependencies: {}
+    Info_79:
+      Name: reading/reading8/2
+      Dependencies: {}
+    Info_80:
+      Name: reading/reading8/3
+      Dependencies: {}
+    Info_81:
+      Name: flashcard/flashcard7/0
+      Dependencies: {}
+    Info_82:
+      Name: flashcard/flashcard7/1
+      Dependencies: {}
+    Info_83:
+      Name: flashcard/flashcard7/2
+      Dependencies: {}
+    Info_84:
+      Name: flashcard/flashcard7/3
+      Dependencies: {}
+    Info_85:
+      Name: flashcard/flashcard7/4
+      Dependencies: {}
+    Info_86:
+      Name: flashcard/flashcard7/5
+      Dependencies: {}
+    Info_87:
+      Name: flashcard/flashcard7/main
+      Dependencies: {}
+    Info_88:
+      Name: flashcard/flashcard8/main
+      Dependencies: {}
+    Info_89:
+      Name: flashcard/flashcard8/0
+      Dependencies: {}
+    Info_90:
+      Name: flashcard/flashcard8/1
+      Dependencies: {}
+    Info_91:
+      Name: flashcard/flashcard8/2
+      Dependencies: {}
+    Info_92:
+      Name: flashcard/flashcard8/3
+      Dependencies: {}
+    Info_93:
+      Name: flashcard/flashcard8/4
+      Dependencies: {}
+    Info_94:
+      Name: flashcard/flashcard8/5
+      Dependencies: {}

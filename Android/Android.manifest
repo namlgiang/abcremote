@@ -265,3 +265,24 @@ AssetBundleManifest:
     Info_87:
       Name: reading/reading8/3
       Dependencies: {}
+    Info_88:
+      Name: flashcard/flashcard8/2
+      Dependencies: {}
+    Info_89:
+      Name: flashcard/flashcard8/5
+      Dependencies: {}
+    Info_90:
+      Name: flashcard/flashcard8/0
+      Dependencies: {}
+    Info_91:
+      Name: flashcard/flashcard8/4
+      Dependencies: {}
+    Info_92:
+      Name: flashcard/flashcard8/1
+      Dependencies: {}
+    Info_93:
+      Name: flashcard/flashcard8/3
+      Dependencies: {}
+    Info_94:
+      Name: flashcard/flashcard8/main
+      Dependencies: {}
