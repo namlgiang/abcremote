@@ -286,3 +286,60 @@ AssetBundleManifest:
     Info_94:
       Name: flashcard/flashcard8/5
       Dependencies: {}
+    Info_95:
+      Name: writing/writing9
+      Dependencies: {}
+    Info_96:
+      Name: activity/activity54
+      Dependencies: {}
+    Info_97:
+      Name: activity/activity55
+      Dependencies: {}
+    Info_98:
+      Name: activity/activity56
+      Dependencies: {}
+    Info_99:
+      Name: activity/activity57
+      Dependencies: {}
+    Info_100:
+      Name: activity/activity58
+      Dependencies: {}
+    Info_101:
+      Name: activity/activity59
+      Dependencies: {}
+    Info_102:
+      Name: listening/listening9
+      Dependencies: {}
+    Info_103:
+      Name: reading/reading9/0
+      Dependencies: {}
+    Info_104:
+      Name: reading/reading9/1
+      Dependencies: {}
+    Info_105:
+      Name: reading/reading9/2
+      Dependencies: {}
+    Info_106:
+      Name: reading/reading9/3
+      Dependencies: {}
+    Info_107:
+      Name: flashcard/flashcard9/main
+      Dependencies: {}
+    Info_108:
+      Name: flashcard/flashcard9/0
+      Dependencies: {}
+    Info_109:
+      Name: flashcard/flashcard9/1
+      Dependencies: {}
+    Info_110:
+      Name: flashcard/flashcard9/2
+      Dependencies: {}
+    Info_111:
+      Name: flashcard/flashcard9/3
+      Dependencies: {}
+    Info_112:
+      Name: flashcard/flashcard9/4
+      Dependencies: {}
+    Info_113:
+      Name: flashcard/flashcard9/5
+      Dependencies: {}
