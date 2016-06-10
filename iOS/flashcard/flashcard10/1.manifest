@@ -1,23 +1,9 @@
 ManifestFileVersion: 0
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 CRC: 2911170390
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 2ca82bde454b7c555e6dc2a3c185bf60
-=======
->>>>>>> Stashed changes
-CRC: 759446067
-Hashes:
-  AssetFileHash:
-    serializedVersion: 2
-    Hash: 4bc914ff570471c605add9cd32ee0cc3
-<<<<<<< Updated upstream
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
   TypeTreeHash:
     serializedVersion: 2
     Hash: 14a7e4712c5ad6221d3367e007f00168
