@@ -1,21 +1,21 @@
 ManifestFileVersion: 0
-CRC: 3289205605
+CRC: 1605381054
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0d2686cf65bf22f873c312bb8cee81a6
+    Hash: 4f5601e65ac7e9f69c921a4949a00325
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 14a7e4712c5ad6221d3367e007f00168
+    Hash: 3936d66559ba46e01d5a617bb150e967
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
   Script: {instanceID: 0}
-- Class: 20
-  Script: {instanceID: 0}
 - Class: 21
+  Script: {instanceID: 0}
+- Class: 23
   Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
@@ -23,36 +23,30 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
-- Class: 81
+- Class: 82
   Script: {instanceID: 0}
-- Class: 89
+- Class: 83
   Script: {instanceID: 0}
 - Class: 91
   Script: {instanceID: 0}
-- Class: 92
-  Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
-- Class: 104
-  Script: {instanceID: 0}
-- Class: 108
+- Class: 102
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: e3382e15c085a41f0a5f21a2df61ad6c, type: 3}
+  Script: {fileID: 11500000, guid: ec8774d3c3f9d487a9c3f16f15812a17, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 92affbe9c5aeb471b8b1283701f1d8bd, type: 3}
+  Script: {fileID: 11500000, guid: c1d20ddb92a434af8b25be776ff16e0a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c770fbc810304d5783aba95d8cb2402, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 124
-  Script: {instanceID: 0}
-- Class: 157
+- Class: 128
   Script: {instanceID: 0}
 - Class: 212
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-- Class: 258
-  Script: {instanceID: 0}
 Assets:
-- Assets/Remote Assets/Flashcard/J/Juice/flashcard9-5.unity
+- Assets/Remote Assets/Reading/K/reading10-1.prefab
 Dependencies: []

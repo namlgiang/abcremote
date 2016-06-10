@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3289205605
+CRC: 412449182
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0d2686cf65bf22f873c312bb8cee81a6
+    Hash: dfb7d2bf67b38acee75529666dd0464f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 14a7e4712c5ad6221d3367e007f00168
+    Hash: 680f8d19c4cf91981ec484f3c675d869
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,8 +24,6 @@ ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
 - Class: 81
-  Script: {instanceID: 0}
-- Class: 89
   Script: {instanceID: 0}
 - Class: 91
   Script: {instanceID: 0}
@@ -51,8 +49,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-- Class: 258
-  Script: {instanceID: 0}
 Assets:
-- Assets/Remote Assets/Flashcard/J/Juice/flashcard9-5.unity
+- Assets/Remote Assets/Flashcard/K/Key/flashcard10-2.unity
 Dependencies: []

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3346441829
+CRC: 2227661433
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b9fe6ecd9cd5654348387c7cc7713dd1
+    Hash: 240fe4ce2c83a90434343383fa3bbc8a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 263a60f2000ba37420761fd6e0c060ea
+    Hash: 8e567dc05deaea9517d36748375e3d8d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,24 +19,18 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
 - Class: 61
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 09fa8f240030549e2af5edef22e95c41, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: f517ceb4b43b841b3aad3ca7a5683923, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 070659aa450da43f8b8ada4b08072dc3, type: 3}
+  Script: {fileID: 11500000, guid: da8a74b2bf0a94c5fbc032bca490a27e, type: 3}
 - Class: 115
-  Script: {instanceID: 0}
-- Class: 198
-  Script: {instanceID: 0}
-- Class: 199
   Script: {instanceID: 0}
 - Class: 212
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Remote Assets/Listening/J/Listening9.prefab
+- Assets/Remote Assets/Activity/K/Activity64.prefab
 Dependencies: []
