@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 663938549
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebbf2b20e4e4ac99360b983046be06f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc102643755748963d525703ba50ee8c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7fb77c332808a42fa8a59ceb46bb6efa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c838dc33829eb42e0aaa73460920f7f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96082319add9d418392a4fd6140248f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79d9331c5b5324388a310e47a94c6e76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb58494faad814826910edd4e2b9577d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f116f6ef58a6c48afb4cb83c487c0ff7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Remote Assets/Writing/L/Drawing11.prefab
+Dependencies: []
