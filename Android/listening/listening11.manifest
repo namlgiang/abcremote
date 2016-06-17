@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1829703278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b115047a84a8257f8f0e25c8ca2172c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 263a60f2000ba37420761fd6e0c060ea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09fa8f240030549e2af5edef22e95c41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f517ceb4b43b841b3aad3ca7a5683923, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 070659aa450da43f8b8ada4b08072dc3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Remote Assets/Listening/L/Listening11.prefab
+Dependencies: []

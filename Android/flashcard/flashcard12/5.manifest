@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3005148722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76879ad0737b4340d40b20b5ff66a4ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 680f8d19c4cf91981ec484f3c675d869
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3382e15c085a41f0a5f21a2df61ad6c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92affbe9c5aeb471b8b1283701f1d8bd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Remote Assets/Flashcard/M/Mommy/flashcard12-5.unity
+Dependencies: []
