@@ -1,0 +1,111 @@
+ManifestFileVersion: 0
+CRC: 3632696311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d4c6c32059d5336f7875f9615940ede
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc4813e207fbf97b3db59869423fdaa5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4636dd00cf55347fbb1cf6d17b2e47dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f6843ce3b1224ad986cac05cac96315, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06f315fe5b512464eb89d1be455c26ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Remote Assets/Flashcard/P/Paint/wiggle.anim
+- Assets/Remote Assets/Flashcard/P/Paint/Paint-03.png
+- Assets/Remote Assets/Flashcard/P/Paper/Paper.png
+- Assets/Remote Assets/Flashcard/P/Paper/Appear.anim
+- Assets/Remote Assets/Flashcard/P/Pocket/Begin.anim
+- Assets/Remote Assets/Flashcard/P/Paper/Tap.anim
+- Assets/Remote Assets/Flashcard/P/Pencil/wiggle_final.anim
+- Assets/Remote Assets/Flashcard/P/Pan/Rotation_Pan.anim
+- Assets/Remote Assets/Flashcard/P/Pan/Pan.png
+- Assets/Remote Assets/Flashcard/P/Pocket/wiggle.anim
+- Assets/Remote Assets/Flashcard/P/Pencil/Appear.anim
+- Assets/Remote Assets/Flashcard/P/Pan/Begin.anim
+- Assets/Remote Assets/Flashcard/P/Pan/wiggle.anim
+- Assets/Remote Assets/Flashcard/P/Paint/Animator.controller
+- Assets/Remote Assets/Flashcard/P/Pencil/wiggle.anim
+- Assets/Remote Assets/Flashcard/P/Paper/Paper-01.png
+- Assets/Remote Assets/Flashcard/P/Pail/Rotation_Pail.anim
+- Assets/Remote Assets/Flashcard/P/Pan/appear.anim
+- Assets/Remote Assets/Flashcard/P/Paper/Paper-02.png
+- Assets/Remote Assets/Flashcard/P/Pail/Pail.png
+- Assets/Remote Assets/Flashcard/P/Pencil/Pencil.png
+- Assets/Remote Assets/Flashcard/P/Pail/Begin.anim
+- Assets/Remote Assets/Flashcard/P/Pan/Tap.anim
+- Assets/Remote Assets/Flashcard/P/Paint/Begin.anim
+- Assets/Remote Assets/Flashcard/P/Pocket/Rotation_Pocket.anim
+- Assets/Remote Assets/Flashcard/P/Pocket/Pocket-01.png
+- Assets/Remote Assets/Flashcard/P/Pencil/Pencil_line.png
+- Assets/Remote Assets/Flashcard/P/Pencil/Begin.anim
+- Assets/Remote Assets/Flashcard/P/flashcard15.prefab
+- Assets/Remote Assets/Flashcard/P/Pail/Animator.controller
+- Assets/Remote Assets/Flashcard/P/Pail/wiggle_final.anim
+- Assets/Remote Assets/Flashcard/P/Paper/wiggle.anim
+- Assets/Remote Assets/Flashcard/P/P.mp3
+- Assets/Remote Assets/Flashcard/P/Paint/Tap.anim
+- Assets/Remote Assets/Flashcard/P/Paper/Rotation_Paper.anim
+- Assets/Remote Assets/Flashcard/P/Pail/Appear.anim
+- Assets/Remote Assets/Flashcard/P/Paper/Animator.controller
+- Assets/Remote Assets/Flashcard/P/Pencil/Animator.controller
+- Assets/Remote Assets/Flashcard/P/Pocket/Tap.anim
+- Assets/Remote Assets/Flashcard/P/Pan/Animator.controller
+- Assets/Remote Assets/Flashcard/P/Pail/Tap.anim
+- Assets/Remote Assets/Flashcard/P/Pocket/Animator.controller
+- Assets/Remote Assets/Flashcard/P/Pan/wiggle_final.anim
+- Assets/Remote Assets/Flashcard/P/Paint/wiggle_final.anim
+- Assets/Remote Assets/Flashcard/P/Pencil/Rotation_Pencil.anim
+- Assets/Remote Assets/Flashcard/P/Pail/wiggle.anim
+- Assets/Remote Assets/Flashcard/P/Paper/Begin.anim
+- Assets/Remote Assets/Flashcard/P/Paint/Appear.anim
+- Assets/Remote Assets/Flashcard/P/Paint/Paint-02.png
+- Assets/Remote Assets/Flashcard/P/Pocket/Appear.anim
+- Assets/Remote Assets/Flashcard/P/Pocket/wiggle_final.anim
+- Assets/Remote Assets/Flashcard/P/Pocket/Pocket-02.png
+- Assets/Remote Assets/Flashcard/P/Paint/Rotation_Paint.anim
+- Assets/Remote Assets/Flashcard/P/Pencil/Tap.anim
+- Assets/Remote Assets/Flashcard/P/Paint/Paint-01.png
+- Assets/Remote Assets/Flashcard/P/Paper/wiggle_final.anim
+Dependencies: []
