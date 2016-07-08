@@ -826,3 +826,6 @@ AssetBundleManifest:
     Info_271:
       Name: flashcard/flashcard16/5
       Dependencies: {}
+    Info_272:
+      Name: listening/listening18
+      Dependencies: {}
