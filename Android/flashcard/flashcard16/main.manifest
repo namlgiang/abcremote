@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1127529713
+CRC: 400797872
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 71393a96c61c8c540d1750b353580ad0
+    Hash: 825ab863381a71ba8caab2bb9aa3eaa5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 612f222eb5a128d3ad4d665574e1d48c
@@ -49,5 +49,4 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Remote Assets/Flashcard/Q/flashcard16.prefab
-Dependencies:
-- AssetBundles/Android/flashcard/flashcard15/main
+Dependencies: []

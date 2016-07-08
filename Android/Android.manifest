@@ -709,10 +709,10 @@ AssetBundleManifest:
       Name: flashcard/flashcard15/5
       Dependencies:
         Dependency_0: flashcard/flashcard15/main
+        Dependency_1: flashcard/flashcard16/main
     Info_234:
       Name: flashcard/flashcard16/main
-      Dependencies:
-        Dependency_0: flashcard/flashcard15/main
+      Dependencies: {}
     Info_235:
       Name: listening/listening16
       Dependencies: {}
