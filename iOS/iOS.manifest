@@ -931,3 +931,15 @@ AssetBundleManifest:
     Info_306:
       Name: activity/activity125
       Dependencies: {}
+    Info_307:
+      Name: reading/reading20/0
+      Dependencies: {}
+    Info_308:
+      Name: reading/reading20/1
+      Dependencies: {}
+    Info_309:
+      Name: reading/reading20/2
+      Dependencies: {}
+    Info_310:
+      Name: reading/reading20/3
+      Dependencies: {}
