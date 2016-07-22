@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4278257184
+CRC: 896345265
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 28614bcae1b17714cd2df53633912e5e
+    Hash: aef53c26127196392bd5182a3db6d77d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 612f222eb5a128d3ad4d665574e1d48c
@@ -49,5 +49,4 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Remote Assets/Flashcard/T/flashcard19.prefab
-Dependencies:
-- AssetBundles/iOS/flashcard/flashcard15/main
+Dependencies: []

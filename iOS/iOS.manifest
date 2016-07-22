@@ -871,12 +871,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_287:
       Name: flashcard/flashcard19/main
-      Dependencies:
-        Dependency_0: flashcard/flashcard15/main
+      Dependencies: {}
     Info_288:
       Name: flashcard/flashcard20/main
-      Dependencies:
-        Dependency_0: flashcard/flashcard15/main
+      Dependencies: {}
     Info_289:
       Name: listening/listening19
       Dependencies: {}
@@ -942,4 +940,73 @@ AssetBundleManifest:
       Dependencies: {}
     Info_310:
       Name: activity/activity120
+      Dependencies: {}
+    Info_311:
+      Name: writing/writing21
+      Dependencies: {}
+    Info_312:
+      Name: activity/activity132
+      Dependencies: {}
+    Info_313:
+      Name: activity/activity133
+      Dependencies: {}
+    Info_314:
+      Name: activity/activity134
+      Dependencies: {}
+    Info_315:
+      Name: activity/activity135
+      Dependencies: {}
+    Info_316:
+      Name: activity/activity136
+      Dependencies: {}
+    Info_317:
+      Name: listening/listening22
+      Dependencies: {}
+    Info_318:
+      Name: reading/reading22/0
+      Dependencies: {}
+    Info_319:
+      Name: reading/reading22/1
+      Dependencies: {}
+    Info_320:
+      Name: reading/reading22/2
+      Dependencies: {}
+    Info_321:
+      Name: reading/reading22/3
+      Dependencies: {}
+    Info_322:
+      Name: flashcard/flashcard19/0
+      Dependencies: {}
+    Info_323:
+      Name: flashcard/flashcard19/1
+      Dependencies: {}
+    Info_324:
+      Name: flashcard/flashcard19/2
+      Dependencies: {}
+    Info_325:
+      Name: flashcard/flashcard19/3
+      Dependencies: {}
+    Info_326:
+      Name: flashcard/flashcard19/4
+      Dependencies: {}
+    Info_327:
+      Name: flashcard/flashcard19/5
+      Dependencies: {}
+    Info_328:
+      Name: flashcard/flashcard20/0
+      Dependencies: {}
+    Info_329:
+      Name: flashcard/flashcard20/1
+      Dependencies: {}
+    Info_330:
+      Name: flashcard/flashcard20/2
+      Dependencies: {}
+    Info_331:
+      Name: flashcard/flashcard20/3
+      Dependencies: {}
+    Info_332:
+      Name: flashcard/flashcard20/4
+      Dependencies: {}
+    Info_333:
+      Name: flashcard/flashcard20/5
       Dependencies: {}
