@@ -1010,3 +1010,9 @@ AssetBundleManifest:
     Info_333:
       Name: flashcard/flashcard20/5
       Dependencies: {}
+    Info_334:
+      Name: flashcard/flashcard21/main
+      Dependencies: {}
+    Info_335:
+      Name: flashcard/flashcard22/main
+      Dependencies: {}
