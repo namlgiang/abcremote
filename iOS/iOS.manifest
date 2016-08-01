@@ -1154,3 +1154,6 @@ AssetBundleManifest:
     Info_381:
       Name: flashcard/flashcard23/2
       Dependencies: {}
+    Info_382:
+      Name: writing/writing25
+      Dependencies: {}
