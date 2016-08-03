@@ -1157,3 +1157,36 @@ AssetBundleManifest:
     Info_382:
       Name: writing/writing25
       Dependencies: {}
+    Info_383:
+      Name: activity/activity150
+      Dependencies: {}
+    Info_384:
+      Name: activity/activity151
+      Dependencies: {}
+    Info_385:
+      Name: activity/activity152
+      Dependencies: {}
+    Info_386:
+      Name: activity/activity153
+      Dependencies: {}
+    Info_387:
+      Name: activity/activity154
+      Dependencies: {}
+    Info_388:
+      Name: flashcard/flashcard24/0
+      Dependencies: {}
+    Info_389:
+      Name: flashcard/flashcard24/1
+      Dependencies: {}
+    Info_390:
+      Name: flashcard/flashcard24/2
+      Dependencies: {}
+    Info_391:
+      Name: flashcard/flashcard24/3
+      Dependencies: {}
+    Info_392:
+      Name: flashcard/flashcard24/4
+      Dependencies: {}
+    Info_393:
+      Name: flashcard/flashcard24/5
+      Dependencies: {}
