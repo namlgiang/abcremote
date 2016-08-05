@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 178983448
+CRC: 220529355
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b5a66fb8ac9f81abba51126b5f1fecb5
+    Hash: 502d8a175924e9a9d82c1fac080fc1bb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: bd8d46dce81818694b3a52e7874e2cfa
+    Hash: bb60a4cf5952066b33099dc2ded00b55
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,7 +25,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
-- Class: 89
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
   Script: {instanceID: 0}
 - Class: 91
   Script: {instanceID: 0}
@@ -34,6 +36,8 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 - Class: 104
+  Script: {instanceID: 0}
+- Class: 108
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: e3382e15c085a41f0a5f21a2df61ad6c, type: 3}
@@ -49,8 +53,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-- Class: 258
-  Script: {instanceID: 0}
 Assets:
-- Assets/Remote Assets/Flashcard/X/X-Ray/flashcard23-0.unity
+- Assets/Remote Assets/Flashcard/Y/Yoghurt/flashcard24-3.unity
 Dependencies: []
