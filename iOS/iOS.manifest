@@ -1190,3 +1190,24 @@ AssetBundleManifest:
     Info_393:
       Name: flashcard/flashcard24/5
       Dependencies: {}
+    Info_394:
+      Name: flashcard/flashcard25/main
+      Dependencies: {}
+    Info_395:
+      Name: flashcard/flashcard25/0
+      Dependencies: {}
+    Info_396:
+      Name: flashcard/flashcard25/1
+      Dependencies: {}
+    Info_397:
+      Name: flashcard/flashcard25/2
+      Dependencies: {}
+    Info_398:
+      Name: flashcard/flashcard25/3
+      Dependencies: {}
+    Info_399:
+      Name: flashcard/flashcard25/4
+      Dependencies: {}
+    Info_400:
+      Name: flashcard/flashcard25/5
+      Dependencies: {}
