@@ -2,7 +2,11 @@ var express = require('express');
 var app = express();
 
 app.get('/', function (req, res) {
-  res.send('Hello World!');
+  res.send('Hi !');
+});
+
+app.get('/sale', function (req, res) {
+  res.send('0');
 });
 
 app.use(express.static('abcremote'));
