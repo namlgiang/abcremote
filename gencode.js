@@ -22,7 +22,6 @@ else {
   fs.readFile('promotion.code', 'utf8', function(err, data) {
     if(err) {
       console.log(err);
-      res.send(err);
       return;
     }
     var data = data.replace(/\n+/g, " ").trim()
