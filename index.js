@@ -45,6 +45,6 @@ app.get('/redeem/:code', function (req, res) {
 
 app.use(express.static('abcremote'));
 
-app.listen(8080, function () {
+app.listen(80, function () {
   console.log('Example app listening on port 80!');
 });
