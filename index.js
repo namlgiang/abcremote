@@ -14,7 +14,14 @@ app.get('/sale', function (req, res) {
       return;
     }
 
-    res.send(data);
+    res.writeHead(200, {
+      'Content-Type': mimeType,
+      'Content-Length': contents.length,
+      'Accept-Ranges': 'bytes',
+      'Cache-Control': 'no-cache'
+    });
+
+    res.end(data);
   });
 });
 
@@ -28,13 +35,20 @@ app.get('/redeem/:code', function (req, res) {
       return;
     }
 
+    res.writeHead(200, {
+      'Content-Type': mimeType,
+      'Content-Length': contents.length,
+      'Accept-Ranges': 'bytes',
+      'Cache-Control': 'no-cache'
+    });
+
     var data = data.replace(/\n+/g, " ").trim()
     var codes = data == "" ? [] : data.split(' ');
     console.log("Total codes: " + codes.length);
 
     for(var i=0; i<codes.length; i++)
       if(code == codes[i]) {
-        res.send("1");
+        res.end("1");
         codes.splice(i,1);
         codes = codes.join("\n");
 
@@ -46,7 +60,7 @@ app.get('/redeem/:code', function (req, res) {
 
         return;
       }
-    res.send("0");
+    res.end("0");
   });
 
 });
