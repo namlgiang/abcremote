@@ -15,9 +15,6 @@ app.get('/sale', function (req, res) {
     }
 
     res.writeHead(200, {
-      'Content-Type': mimeType,
-      'Content-Length': contents.length,
-      'Accept-Ranges': 'bytes',
       'Cache-Control': 'no-cache'
     });
 
@@ -36,9 +33,6 @@ app.get('/redeem/:code', function (req, res) {
     }
 
     res.writeHead(200, {
-      'Content-Type': mimeType,
-      'Content-Length': contents.length,
-      'Accept-Ranges': 'bytes',
       'Cache-Control': 'no-cache'
     });
 
