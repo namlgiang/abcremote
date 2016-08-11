@@ -35,7 +35,7 @@ else {
     }
 
     for(var i=0; i<quantity; i++) {
-      var newCode = randomString(9);
+      var newCode = randomString(5);
       while(exists(newCode)) newCode = randomString(9);
       console.log(newCode);
       codes.push(newCode);
