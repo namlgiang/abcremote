@@ -7,7 +7,15 @@ app.get('/', function (req, res) {
 });
 
 app.get('/sale', function (req, res) {
-  res.send('1');
+  fs.readFile('sale.event', 'utf8', function(err, data) {
+    if(err) {
+      console.log(err);
+      res.send(err);
+      return;
+    }
+
+    res.send(data);
+  });
 });
 
 app.get('/redeem/:code', function (req, res) {
