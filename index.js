@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
   res.writeHead(200, {
     'Cache-Control': 'no-cache'
   });
-  res.end('Hi 1 !');
+  res.send('Hi 1 !');
 });
 
 app.get('/sale', function (req, res) {
