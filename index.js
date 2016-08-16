@@ -43,6 +43,9 @@ app.get('/redeem/:code', function (req, res) {
     for(var i=0; i<codes.length; i++)
       if(code == codes[i]) {
         res.end("1");
+
+        fs.appendFile("used.code", code, function(err) {});
+
         codes.splice(i,1);
         codes = codes.join("\n");
 
