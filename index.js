@@ -3,10 +3,7 @@ var app = express();
 var fs = require('fs');
 
 app.get('/', function (req, res) {
-  res.writeHead(200, {
-    'Cache-Control': 'no-cache'
-  });
-  res.send('Hi 1 !');
+  res.send('Hello!');
 });
 
 app.get('/sale', function (req, res) {
