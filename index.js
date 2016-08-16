@@ -44,7 +44,7 @@ app.get('/redeem/:code', function (req, res) {
       if(code == codes[i]) {
         res.end("1");
 
-        fs.appendFile("used.code", code, function(err) {});
+        fs.appendFile("used.code", code + " ", function(err) {});
 
         codes.splice(i,1);
         codes = codes.join("\n");
@@ -57,7 +57,17 @@ app.get('/redeem/:code', function (req, res) {
 
         return;
       }
-    res.end("0");
+
+    fs.readFile("used.code", "utf8", function(err, data) {
+      if(err) {
+        res.end("0");
+        return;
+      }
+      if(data.indexOf(code) != -1)
+        res.end("2");
+      else
+        res.end("0");
+    });
   });
 
 });
