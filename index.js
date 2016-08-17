@@ -1,6 +1,16 @@
 var express = require('express');
 var app = express();
 var fs = require('fs');
+var infinite = "";
+
+fs.readFile('infinite.code', 'utf8', function(err, data) {
+  if(err) {
+    console.log(err);
+    return;
+  }
+  exceptions = data;
+});
+
 
 app.get('/', function (req, res) {
   res.send('Hello!');
@@ -44,16 +54,18 @@ app.get('/redeem/:code', function (req, res) {
       if(code == codes[i]) {
         res.end("1");
 
-        fs.appendFile("used.code", code + " ", function(err) {});
+        if(infinite.indexOf(code) == -1) {
+          fs.appendFile("used.code", code + " ", function(err) {});
 
-        codes.splice(i,1);
-        codes = codes.join("\n");
+          codes.splice(i,1);
+          codes = codes.join("\n");
 
-        fs.writeFile("promotion.code", codes, function(err) {
-          if(err) {
-            console.log(err);
-          }
-        });
+          fs.writeFile("promotion.code", codes, function(err) {
+            if(err) {
+              console.log(err);
+            }
+          });
+        }
 
         return;
       }
