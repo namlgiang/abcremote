@@ -709,7 +709,6 @@ AssetBundleManifest:
       Name: flashcard/flashcard15/5
       Dependencies:
         Dependency_0: flashcard/flashcard15/main
-        Dependency_1: flashcard/flashcard16/main
     Info_234:
       Name: flashcard/flashcard16/main
       Dependencies: {}
