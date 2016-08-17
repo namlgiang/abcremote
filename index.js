@@ -40,6 +40,14 @@ app.get('/sale', function (req, res) {
 
 app.get('/redeem/:code', function (req, res) {
   var code = req.params["code"];
+  res.writeHead(200, {
+    'Cache-Control': 'no-cache'
+  });
+
+  if(infinite.indexOf(code) == -1) {
+    res.end(1);
+    return;
+  }
 
   fs.readFile('promotion.code', 'utf8', function(err, data) {
     if(err) {
@@ -47,10 +55,6 @@ app.get('/redeem/:code', function (req, res) {
       res.send(err);
       return;
     }
-
-    res.writeHead(200, {
-      'Cache-Control': 'no-cache'
-    });
 
     var data = data.replace(/\n+/g, " ").trim()
     var codes = data == "" ? [] : data.split(' ');
@@ -60,18 +64,16 @@ app.get('/redeem/:code', function (req, res) {
       if(code == codes[i]) {
         res.end("1");
 
-        if(infinite.indexOf(code) == -1) {
-          fs.appendFile("used.code", code + " ", function(err) {});
+        fs.appendFile("used.code", code + " ", function(err) {});
 
-          codes.splice(i,1);
-          codes = codes.join("\n");
+        codes.splice(i,1);
+        codes = codes.join("\n");
 
-          fs.writeFile("promotion.code", codes, function(err) {
-            if(err) {
-              console.log(err);
-            }
-          });
-        }
+        fs.writeFile("promotion.code", codes, function(err) {
+          if(err) {
+            console.log(err);
+          }
+        });
 
         return;
       }
