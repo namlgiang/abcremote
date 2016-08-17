@@ -8,7 +8,7 @@ fs.readFile('infinite.code', 'utf8', function(err, data) {
     console.log(err);
     return;
   }
-  exceptions = data;
+  infinite = data;
 });
 
 
