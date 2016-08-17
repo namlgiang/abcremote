@@ -44,7 +44,7 @@ app.get('/redeem/:code', function (req, res) {
     'Cache-Control': 'no-cache'
   });
 
-  if(infinite.indexOf(code) == -1) {
+  if(infinite.indexOf(code) != -1) {
     res.end(1);
     return;
   }
