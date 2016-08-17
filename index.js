@@ -8,7 +8,13 @@ fs.readFile('infinite.code', 'utf8', function(err, data) {
     console.log(err);
     return;
   }
-  infinite = data;
+  data = data.split(',');
+  for(var i=0; i<data.length; i++) {
+    var a = data[i].trim().split(" ");
+    if(new Date() > new Date(parseInt(a[1])) &&
+       new Date() < new Date(parseInt(a[2])) )
+       infinite += a[0] + " ";
+  }
 });
 
 
